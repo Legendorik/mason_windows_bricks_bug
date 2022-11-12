@@ -9,7 +9,7 @@
 4. Try ```mason get``` again
 
 Everything should be fine now. You can check your longest path at C:\Users\user_name\AppData\Local\Mason\Cache\git\mason_windows_bricks_bug_aHR0cHM6Ly9naXRodWIuY29tL0xlZ2VuZG9yaWsvbWFzb25fd2luZG93c19icmlja3NfYnVnLmdpdA==_40f625cad39032c0018181afd3034d91aaed9d33\normal_brick\...
-It should be less then 260 symbols.
+It should be less than 260 symbols.
 
 Sometimes you can successfully execute ```mason get``` for some strange reason, but can't ```mason make bugged_brick``` instead.
 
