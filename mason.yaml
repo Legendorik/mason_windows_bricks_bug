@@ -3,6 +3,8 @@
 bricks:
   # Sample Brick
   # Run `mason make hello` to try it out.
+
+
   # bugged_brick:
   #   git:
   #     url: https://github.com/Legendorik/mason_windows_bricks_bug.git
@@ -15,6 +17,8 @@ bricks:
     git:
       url: https://github.com/Legendorik/mason_windows_bricks_bug.git
       path: ./short_brick
+
+
 
   # Bricks can also be imported via git url.
   # Uncomment the following lines to import
